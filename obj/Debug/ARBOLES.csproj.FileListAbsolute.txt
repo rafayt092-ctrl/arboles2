@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\obj\Debug\ARBOLES.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\obj\Debug\ARBOLES.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\bin\Debug\ARBOLES.exe.config
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\bin\Debug\ARBOLES.exe
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\bin\Debug\ARBOLES.pdb
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\obj\Debug\ARBOLES.exe
+C:\Users\UPN\Desktop\SEMANA 8\ARBOLES\ARBOLES\obj\Debug\ARBOLES.pdb
